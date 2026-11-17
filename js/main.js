@@ -69,7 +69,7 @@ $('#app').innerHTML = `
 
 <section class="chap" id="c6">${head(5)}
   <div class="one wide">${pol('food', 'Shahi bhoj, sirf Devi ji ke liye 🍽️', -1.5, 't2')}</div>
-  <div class="tags foods"><span>🍚 Rajma Chawal</span><span>🫓 Chole Bhature</span><span>🥟 Momos</span><span>🍮 Rasmalai</span><span>🍔 Burger</span><span>🍕 Pizza</span><span>🥛 Lassi</span></div>
+  <div class="tags foods"><span>🍚 Rajma Chawal</span><span>🫓 Chole Bhature</span><span>🥟 Momos</span><span>🍮 Rasmalai</span><span>🍔 Burger</span><span>🍕 Pizza</span><span>🥛 Milk</span></div>
   ${rv('bhoj')}
   ${nxt(5)}
 </section>
